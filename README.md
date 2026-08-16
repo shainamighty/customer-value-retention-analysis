@@ -32,6 +32,7 @@ The sharper insight: customers in the highest engagement tier are **100% discoun
 | `project.pbix` | Power BI dashboard (4 panels) |
 | `Executive_Summary.docx` | 1-page summary of method, findings, and recommendation |
 | `Retention_Playbook.docx` | Promotional sunset plan + geographic targeting recommendations |
+| `Dataset.csv` | Raw source dataset (input to feature_engineering.py) |
 
 ## Tech stack
 
